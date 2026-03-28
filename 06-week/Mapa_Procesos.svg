@@ -1,0 +1,67 @@
+<svg width="1200" height="800" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: bold 28px Arial; fill: #222; }
+    .subtitle { font: bold 20px Arial; fill: #333; }
+    .text { font: 16px Arial; fill: #444; }
+    .box { fill: #f8f9fa; stroke: #333; stroke-width: 2; rx: 15; ry: 15; }
+    .arrow { stroke: #555; stroke-width: 3; marker-end: url(#arrowhead); }
+  </style>
+
+  <!-- Flecha -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" 
+            refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#555"/>
+    </marker>
+  </defs>
+
+  <!-- Título -->
+  <text x="600" y="50" text-anchor="middle" class="title">
+    Mapa de Procesos
+  </text>
+
+  <!-- Procesos estratégicos -->
+  <rect x="250" y="100" width="700" height="120" class="box"/>
+  <text x="600" y="140" text-anchor="middle" class="subtitle">
+    Procesos Estratégicos
+  </text>
+  <text x="600" y="175" text-anchor="middle" class="text">
+    Planeación • Gestión • Control de Calidad
+  </text>
+  <text x="600" y="200" text-anchor="middle" class="text">
+    Toma de decisiones y definición de objetivos
+  </text>
+
+  <!-- Flecha -->
+  <line x1="600" y1="220" x2="600" y2="300" class="arrow"/>
+
+  <!-- Procesos misionales -->
+  <rect x="200" y="300" width="800" height="180" class="box"/>
+  <text x="600" y="340" text-anchor="middle" class="subtitle">
+    Procesos Misionales / Operativos
+  </text>
+  <text x="600" y="385" text-anchor="middle" class="text">
+    Análisis → Diseño → Desarrollo
+  </text>
+  <text x="600" y="420" text-anchor="middle" class="text">
+    Pruebas → Implementación → Entrega
+  </text>
+  <text x="600" y="455" text-anchor="middle" class="text">
+    Ejecución principal del proyecto
+  </text>
+
+  <!-- Flecha -->
+  <line x1="600" y1="480" x2="600" y2="560" class="arrow"/>
+
+  <!-- Procesos de apoyo -->
+  <rect x="250" y="560" width="700" height="120" class="box"/>
+  <text x="600" y="600" text-anchor="middle" class="subtitle">
+    Procesos de Apoyo
+  </text>
+  <text x="600" y="635" text-anchor="middle" class="text">
+    Soporte • Base de Datos • Documentación
+  </text>
+  <text x="600" y="660" text-anchor="middle" class="text">
+    Mantenimiento • Recursos • Seguridad
+  </text>
+</svg>

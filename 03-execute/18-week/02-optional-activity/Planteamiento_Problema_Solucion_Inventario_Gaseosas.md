@@ -1,4 +1,4 @@
-# Planteamiento del Problema y Propuesta de Solución
+EMPRESA DE GASEOSA 
 
 ## Problema 1: Control de productos vencidos
 

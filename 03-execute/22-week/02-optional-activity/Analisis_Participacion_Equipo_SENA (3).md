@@ -8,7 +8,7 @@
 | 2 | Andres Felipe Castro Bedoya | Sí | Documento `.md` (1.335 palabras) + `Presentacion.pdf` (12 pág.) | Completa | 90% | PDF sin texto extraíble (imagen); revisar visualmente |
 | 3 | Brenda Carolina Galeano Ramírez | Sí | Documento `.md` (4.118 palabras) + `.pptx` (16 diapositivas) | Completa | 100% | Nada relevante |
 | 4 | Edwin Alejandro Esquivel Bahamon | Sí | `.md` (4.380 palabras) + `.docx` (637 palabras) + `.pdf` (20 pág.) | Completa | 50% | 🔴 Posible copia con Tomas Barrera Ortiz (80% similitud, texto idéntico) |
-| 5 | JHON STIVEN ALBA QUIROGA | Sí | `.md` (3.465 palabras) + `.pptx` (15 diapositivas) | Completa | 50% | (74% similitud) |
+| 5 | JHON STIVEN ALBA QUIROGA | Sí | `.md` (3.465 palabras) + `.pptx` (15 diapositivas) | Completa | 50% | Nada Revelante |
 | 6 | JOSEPH FELIPE AGUIRRE CHURTA | Sí | `.md` (4.095 palabras, cita el mockup oficial) + `.pdf` (17 pág.) + 6 capturas reales | Completa | 100% | Nada relevante |
 | 7 | JUAN PABLO CHACON BARRAGAN | Sí | `.pdf` (17 pág., sin texto extraíble) | Parcial | 40% | Falta documento escrito; PDF no verificable |
 | 8 | Jeison Fernando Joaqui Rodriguez | Sí | `.pptx` (22 diapositivas, ~1.789 palabras) | Parcial | 70% | Falta documento de análisis escrito |
@@ -55,7 +55,6 @@ Contar solo "sí/no" da 100 % de participación, pero no todos aportaron igual: 
 - **Mayor participación (puntaje 100, trabajo completo y verificado):** Jose Esneider Covaleda Hortua, JOSEPH FELIPE AGUIRRE CHURTA, Brenda Carolina Galeano Ramírez, Miguel Angel Estrada Torrentes, Julián Stiven Camargo Lopez, Jhorman Jamir Pascuas Lara, Juan Mathias Palacios Botello, Santiago Javela Ospino y juan sebastian medina cardozo.
 - **Casos a revisar antes de calificar (puntaje 50 o menos):**
   - 🔴 Edwin Alejandro Esquivel Bahamon ↔ Tomas Barrera Ortiz (80 % de texto idéntico)
-  - 🔴 JHON STIVEN ALBA QUIROGA ↔ Kevin Santiago Saavedra Chantris (74 % de texto idéntico)
   - 4 personas con solo PDF/PPTX de imagen sin texto verificable: JUAN PABLO CHACON BARRAGAN, Joan Sebastian Vargas Ramos, Nicolas Esteban Aldana Doria, paula sofia claros nañez.
 - **Qué mejorar la próxima semana:**
   1. Conversar con las 2 parejas marcadas en rojo antes de calificar; la similitud detectada va mucho más allá de compartir tema.

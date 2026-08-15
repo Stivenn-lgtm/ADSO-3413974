@@ -57,7 +57,7 @@ Contar solo "sí/no" da 100 % de participación, pero no todos aportaron igual: 
   - 🔴 Edwin Alejandro Esquivel Bahamon ↔ Tomas Barrera Ortiz (80 % de texto idéntico)
   - 4 personas con solo PDF/PPTX de imagen sin texto verificable: JUAN PABLO CHACON BARRAGAN, Joan Sebastian Vargas Ramos, Nicolas Esteban Aldana Doria, paula sofia claros nañez.
 - **Qué mejorar la próxima semana:**
-  1. Conversar con las 2 parejas marcadas en rojo antes de calificar; la similitud detectada va mucho más allá de compartir tema.
+  1. Conversar con las 1 parejas marcadas en rojo antes de calificar; la similitud detectada va mucho más allá de compartir tema.
   2. Los 8 con entrega parcial deben completar el entregable que les falta (documento o presentación).
   3. Pedir a los 5 que subieron PDF/PPTX solo de imágenes que agreguen también el documento fuente, para poder verificar autoría.
   4. Confirmar si el equipo real es de 25 o 26 personas.

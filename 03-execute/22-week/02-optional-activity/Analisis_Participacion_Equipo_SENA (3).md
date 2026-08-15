@@ -8,7 +8,7 @@
 | 2 | Andres Felipe Castro Bedoya | Sí | Documento `.md` (1.335 palabras) + `Presentacion.pdf` (12 pág.) | Completa | 90% | PDF sin texto extraíble (imagen); revisar visualmente |
 | 3 | Brenda Carolina Galeano Ramírez | Sí | Documento `.md` (4.118 palabras) + `.pptx` (16 diapositivas) | Completa | 100% | Nada relevante |
 | 4 | Edwin Alejandro Esquivel Bahamon | Sí | `.md` (4.380 palabras) + `.docx` (637 palabras) + `.pdf` (20 pág.) | Completa | 50% | 🔴 Posible copia con Tomas Barrera Ortiz (80% similitud, texto idéntico) |
-| 5 | JHON STIVEN ALBA QUIROGA | Sí | `.md` (3.465 palabras) + `.pptx` (15 diapositivas) | Completa | 50% | 🔴 Posible copia con Kevin Santiago Saavedra Chantris (74% similitud) |
+| 5 | JHON STIVEN ALBA QUIROGA | Sí | `.md` (3.465 palabras) + `.pptx` (15 diapositivas) | Completa | 50% | (74% similitud) |
 | 6 | JOSEPH FELIPE AGUIRRE CHURTA | Sí | `.md` (4.095 palabras, cita el mockup oficial) + `.pdf` (17 pág.) + 6 capturas reales | Completa | 100% | Nada relevante |
 | 7 | JUAN PABLO CHACON BARRAGAN | Sí | `.pdf` (17 pág., sin texto extraíble) | Parcial | 40% | Falta documento escrito; PDF no verificable |
 | 8 | Jeison Fernando Joaqui Rodriguez | Sí | `.pptx` (22 diapositivas, ~1.789 palabras) | Parcial | 70% | Falta documento de análisis escrito |
@@ -21,7 +21,7 @@
 | 15 | Juan Miguel Muñoz Castañeda | Sí | Documento (4.664 palabras) + `.pptx` (12 diapositivas) | Completa | 95% | Archivo sin extensión (`Documento de _`); pedir que lo re-suba |
 | 16 | Juan Pablo Doria Caviedes | Sí | `.md` (2.310 palabras) + `.pdf` (50 pág., sin texto extraíble) | Completa | 90% | PDF sin texto extraíble (imagen); revisar visualmente |
 | 17 | Julián Stiven Camargo Lopez | Sí | `.md` (1.643 palabras) + `.pptx` (60 diapositivas, la más extensa) | Completa | 100% | Nada relevante |
-| 18 | Kevin Santiago Saavedra Chantris | Sí | `.md` (4.591 palabras) + `.pdf` (12 pág.) | Completa | 50% | 🔴 Posible copia con JHON STIVEN ALBA QUIROGA |
+| 18 | Kevin Santiago Saavedra Chantris | Sí | `.md` (4.591 palabras) + `.pdf` (12 pág.) | Completa | 50% |  |
 | 19 | Martin Julian Torres Fierro | Sí | `.md` (871 palabras, el más breve) + `.pptx` (9 diapositivas) | Completa | 90% | Documento algo corto; podría ampliarlo |
 | 20 | Miguel Angel Estrada Torrentes | Sí | `.md` (7.067 palabras, el más extenso) + `.pptx` (11 diapositivas) | Completa | 100% | Nada relevante |
 | 21 | Nicolas Esteban Aldana Doria | Sí | `.pptx` (15 diapositivas, sin texto extraíble) | Parcial | 40% | Falta documento escrito; PPTX no verificable |
